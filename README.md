@@ -25,4 +25,10 @@ In order to cater to all three trains for 15 minutes, you need 3 platforms.
 
 This problem can be solved by using different approaches. Code is present in the repository.
 
+### Can we extend the problem?
+Of course:
+
+1. How many different times are those in a day where there are more than 1 trains on the station?
+2. What are these different time durations for which multiple trains are present on the station?
+
 ### Feel free to leave comments/PRs
