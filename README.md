@@ -21,4 +21,4 @@ In order to cater to all three trains for 15 minutes, you need 3 platforms.
 
 This problem can be solved by using different approaches. Code is present in the repository.
 
-### Feel free to leave comments
+### Feel free to leave comments/PRs
