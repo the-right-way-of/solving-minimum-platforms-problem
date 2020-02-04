@@ -30,5 +30,7 @@ Of course:
 
 1. How many different times are those in a day where there are more than 1 trains on the station?
 2. What are these different time durations for which multiple trains are present on the station?
+3. Which trains should be rescheduled by how much time to reduce platform requirement by 1?
+
 
 ### Feel free to leave comments/PRs
